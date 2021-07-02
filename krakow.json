@@ -1,0 +1,15 @@
+{
+   "Name":"Pub pod ziemią",
+   "Lat":50.053566843415815,
+   "Lng":19.947689294227057,
+   "BeerDataList":[
+      {
+         "Name":"Perła lana",
+         "Price":5
+      },
+      {
+         "Name":"Żywiec butelka",
+         "Price":6
+      }
+   ]
+}
